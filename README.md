@@ -11,5 +11,5 @@
 
 * `https://raw.githubusercontent.com/chousemath/car-prices-time-series/master/prices.json`
 * The unit of `price` is `만원`
-* `13년` and `13년(14년형)` should be seen as two different years
+* `13년` and `13년(14년형)` should be seen as two different years
 * `unix_timestamp` is in seconds
