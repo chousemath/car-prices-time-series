@@ -6,6 +6,8 @@
 > * Filter by `year`
 > * Filter by `price` range (min and max)
 > * Filter by user-friendly time range (min and max)
+> * Average price of displayed data (after the filter) should always be shown
+> * Total number of displayed data points (after the filter) should always be shown
 
 ### Data GET Endpoint
 
@@ -13,3 +15,9 @@
 * The unit of `price` is `만원`
 * `13년` and `13년(14년형)` should be seen as two different years
 * `unix_timestamp` is in seconds
+
+### Things We Would Like to See
+
+* Knowledge of REST
+* Proficiency in frontend technologies
+* Proficiency in functional javascript (map, filter, reduce)
