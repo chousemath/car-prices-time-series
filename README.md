@@ -12,6 +12,7 @@
 > * You should be able to remove data points
 > * You should be able to update data points (note that each data point has an `id` attribute)
 > * Don't worry too much about performance
+> * Please upload your code to github and share
 
 ### Data GET Endpoint
 
