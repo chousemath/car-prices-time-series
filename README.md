@@ -8,6 +8,10 @@
 > * Filter by user-friendly time range (min and max)
 > * Average price of displayed data (after the filter) should always be shown
 > * Total number of displayed data points (after the filter) should always be shown
+> * You should be able to add data points (need to designate the `year`, `price`, and `id` of the car, and corresponding date/timestamp)
+> * You should be able to remove data points
+> * You should be able to update data points (note that each data point has an `id` attribute)
+> * Don't worry too much about performance
 
 ### Data GET Endpoint
 
